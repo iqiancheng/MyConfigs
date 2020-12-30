@@ -30,7 +30,6 @@ set incsearch                 " 输入搜索模式时，每输入一个字符，
 set ignorecase                " 搜索时忽略大小写
 
 " EDIT
-set spell spelllang=en_us     " 打开英语单词的拼写检查
 set undofile                  " 保留撤销历史
 set backupdir=~/.vim/.backup//
 set directory=~/.vim/.swp//
