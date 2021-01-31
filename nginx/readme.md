@@ -34,9 +34,6 @@ vim /etc/nginx/nginx.conf
 nginx  # 或者 nginx -s reload
 ```
 
-不出问题的话，访问你的ip地址或者网站`hello.com`即可指向VPS服务器`/home/mygit/website`下的静态网站。
-
-
 ## 参考资料
 
 1. 把 Hugo 博客部署到VPS: <http://www.shashun.site/post/first/>
