@@ -22,12 +22,7 @@ nginx -s stop
 定位并修改nginx.conf文件
 
 ```shell
-locate nginx.conf
-```
-
-![locate nginx](https://hugo-blog-1256004972.cos.ap-chengdu.myqcloud.com/20210131%20%E9%85%8D%E7%BD%AEnginx%EF%BC%88%E5%B7%B2%E5%8E%8B%E7%BC%A9%EF%BC%89/1.png)
-
-```shell
+locate nginx.conf  # 假定目录为/etc/nginx/nginx.conf
 vim /etc/nginx/nginx.conf
 ```
 
