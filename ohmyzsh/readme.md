@@ -83,7 +83,7 @@ source ~/.zshrc
 cd ~/.oh-my-zsh/plugins
 git clone https://github.com/zsh-users/zsh-syntax-highlighting
 git clone https://github.com/zsh-users/zsh-autosuggestions
-source ~/.zshrc
+source ~/.zshrc && cd ~
 ```
 
 ### 详细配置
